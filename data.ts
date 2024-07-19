@@ -1,0 +1,136 @@
+import {Student} from "./interfaces";
+
+const students: Student[] = [
+    {
+      id: 1,
+      firstName: "muhammad",
+      lastName: "osama",
+      rollNo: 2001,
+      email: "osama@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 80,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 2,
+      firstName: "ali",
+      lastName: "khan",
+      rollNo: 2002,
+      email: "ali@test.com",
+      isOnsiteAllowed: false,
+      entryTest: {
+        isPassed: false,
+        obtainedMarks: 65,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 3,
+      firstName: "sumayya",
+      lastName: "khan",
+      rollNo: 2003,
+      email: "sumayya@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 85,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 4,
+      firstName: "harisa",
+      lastName: "saeed",
+      rollNo: 2004,
+      email: "harisa@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 90,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 5,
+      firstName: "maaz",
+      lastName: "ather",
+      rollNo: 2005,
+      email: "maaz@test.com",
+      isOnsiteAllowed: false,
+      entryTest: {
+        isPassed: false,
+        obtainedMarks: 50,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 6,
+      firstName: "syeda",
+      lastName: "fatima",
+      rollNo: 2006,
+      email: "syeda@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 95,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 7,
+      firstName: "esha",
+      lastName: "adeel",
+      rollNo: 2007,
+      email: "esha@test.com",
+      isOnsiteAllowed: false,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 80,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 8,
+      firstName: "muhammad",
+      lastName: "muneeb",
+      rollNo: 2008,
+      email: "muneeb@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 83,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 9,
+      firstName: "zohaib",
+      lastName: "javed",
+      rollNo: 2009,
+      email: "zohaib@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 88,
+        totalMarks: 100,
+      },
+    },
+    {
+      id: 10,
+      firstName: "ahsan",
+      lastName: "khan",
+      rollNo: 2010,
+      email: "ahsan@test.com",
+      isOnsiteAllowed: true,
+      entryTest: {
+        isPassed: true,
+        obtainedMarks: 78,
+        totalMarks: 100,
+      },
+    },
+  ];
+
+export default students;
