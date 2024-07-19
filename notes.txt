@@ -1,0 +1,29 @@
+- what is module?
+    - In TypeScript, a module is like a container for code. It helps keep your code organized by letting you split it into separate files. 
+      You can export things from one module (like functions or variables) and import them into another module to use them. 
+      This makes it easier to manage large projects and reuse code in different parts of your application.
+
+- module types
+    - internal
+    - external
+
+- students
+    - create students data
+    - get all students list
+    - get onsite students list
+    - get entry test passed students list
+    - get student data
+    - check student is onsite allowed
+
+- import and export
+    - named export
+    - default export
+    - named import 
+    - default import
+    - import as alias
+    - import *
+
+- when to use name and default export
+    - use named exports when you need to export multiple items from a module
+    - use a default export when a module has a single primary item to export
+    - you can combine both if needed, but usually, it's better to keep it simple and clear
