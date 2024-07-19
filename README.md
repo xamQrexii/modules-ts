@@ -19,7 +19,7 @@ In this repostity we cover modules with:
 ## How to run this project?
 
 Clone this repository and run the following commands:
-\
+
 ```
 cd modeules-ts
 ```
