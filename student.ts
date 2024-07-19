@@ -33,5 +33,5 @@ export const isStudentOnSite = (rollNo: number): boolean => {
 };
 
 
-// todo: get entry test passed students list
+// todo for students: get entry test passed students list
 // create function that return entry test passed students array of objects
