@@ -21,7 +21,7 @@ In this repostity we cover modules with:
 Clone this repository and run the following commands:
 
 ```
-cd modeules-ts
+cd modules-ts
 ```
 
 ```
