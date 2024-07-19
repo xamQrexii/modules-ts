@@ -20,6 +20,14 @@ In this repostity we cover modules with:
 
 Clone this repository and run the following commands:
 \
-`tsc`
-\
-`node index.js`
+```
+cd modeules-ts
+```
+
+```
+tsc
+```
+
+```
+node index.js
+```
